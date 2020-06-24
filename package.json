@@ -1,11 +1,11 @@
 {
-  "name": "chrome-extension-boilerplate-react",
+  "name": "mcash",
   "version": "2.5.0",
-  "description": "A chrome extension boilerplate built with React 16 and Webpack 4",
+  "description": "Mcash chrome browser extension",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxieyang/chrome-extension-boilerplate-react.git"
+    "url": "https://github.com/codenotbombs/mcash.git"
   },
   "scripts": {
     "build": "node utils/build.js",
